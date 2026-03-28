@@ -5,12 +5,12 @@
     "version": "1.0.0",
     "runtimeVersion": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/logo.png",
+    "icon": "./assets/protrader_logo2.png",
     "userInterfaceStyle": "dark",
     "newArchEnabled": false,
     "jsEngine": "hermes",
     "splash": {
-      "image": "./assets/logo.png",
+      "image": "./assets/protrader_logo2.png",
       "resizeMode": "contain",
       "backgroundColor": "#121212"
     },
@@ -29,7 +29,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/logo.png",
+        "foregroundImage": "./assets/protrader_logo2.png",
         "backgroundColor": "#121212"
       },
       "edgeToEdgeEnabled": true,
